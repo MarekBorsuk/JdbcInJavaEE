@@ -18,7 +18,7 @@ public class DbUtil {
 		connectionPool.setDriverClass("com.mysql.jdbc.Driver");
 		connectionPool.setJdbcUrl("jdbc:mysql://localhost:3306/world");
 		connectionPool.setUser("root");
-		connectionPool.setPassword("markus358");
+		connectionPool.setPassword("password");
 		
 		//konfigurowanie puli po³aczen
 		//poczatkowa liczba po³aczen
